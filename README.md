@@ -90,4 +90,6 @@ scp -i /Users/lizashcherbakova/.ssh/id_rsa -P 32222 eascherbakova_2@89.175.46.92
 
 **На основе последней таблицы получаем тепловую карту**
 ![headmap](heat_map.png)
+
+
 Код, использованный для построение таблиц и карты приведен в [коллабе](https://colab.research.google.com/drive/1mO3n4eBgCozRHvXl1Y0eCVRRTz88oDo9?usp=sharing).
