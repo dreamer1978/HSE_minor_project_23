@@ -29,6 +29,7 @@ scp -i /Users/lizashcherbakova/.ssh/id_rsa -P 32222 eascherbakova_2@89.175.46.92
 Копируем скрипт.
 ```
 mkdir h2a
+cd h2a
 touch h2a.fasta
 cp ../blast1.sh blast_h2a.sh
 ```
