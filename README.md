@@ -22,7 +22,7 @@ zip -R first_blast '*.blast'
 ```
 scp -i /Users/lizashcherbakova/.ssh/id_rsa -P 32222 eascherbakova_2@89.175.46.92:/home/eascherbakova_2/project/first_blast.zip /Users/lizashcherbakova/hse/bioinfa/project/blast1
 ```
-*Проделываем аналогичную операцию для гистонов.
+*Проделываем аналогичную операцию для гистонов.*
 
 Создаем новую папку для определенного гистона.
 Записываем туда его fasta файл.
