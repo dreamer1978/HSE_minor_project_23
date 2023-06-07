@@ -40,7 +40,16 @@ zip -R first_blast '*.blast'
 ```
 scp -i /Users/lizashcherbakova/.ssh/id_rsa -P 32222 eascherbakova_2@89.175.46.92:/home/eascherbakova_2/project/first_blast.zip /Users/lizashcherbakova/hse/bioinfa/project/blast1
 ```
-# Множественное белковое выравнивание гистонов**
+# Множественное белковое выравнивание гистонов
+
+*H2A*
+![H2A](h2a.jpeg)
+*H2B*
+![]()
+*H3*
+![]()
+*H4*
+![]()
 
 Варианты гистонов в целом очень похожи и имеют почти идентичные последовательности, поэтому можно считать их просто копиями друг друга и выбирать любые для дальнейших действий.
 
