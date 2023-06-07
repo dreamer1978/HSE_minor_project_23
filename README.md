@@ -4,6 +4,6 @@
 
 Запускаем поиск BLASTp белка TDG против 11-ти протеомов.
 
-'''
+```
 blastp  -query tdg.fasta  -db /mnt/storage/project_2023/proteomes/drosophila.faa  -out drosophila.blast  -outfmt 7
-'''
+```
